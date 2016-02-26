@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0000FF">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toast"
+        android:id="@+id/button4"
+        android:layout_x="129dp"
+        android:layout_y="63dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Facebook"
+        android:id="@+id/button5"
+        android:layout_gravity="center_vertical"
+        android:layout_x="129dp"
+        android:layout_y="247dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:id="@+id/button6"
+        android:layout_gravity="bottom"
+        android:layout_x="137dp"
+        android:layout_y="415dp" />
+
+</AbsoluteLayout>
