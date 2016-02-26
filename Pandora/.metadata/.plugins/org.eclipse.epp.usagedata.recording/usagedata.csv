@@ -1,0 +1,8 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.rse.subsystems.files.dstore,2.1.102.R32x_v201102011435,"org.eclipse.rse.subsystems.files.dstore",1455854741982
+stopped,bundle,org.eclipse.rse.subsystems.processes.dstore,2.1.100.v200905272300,"org.eclipse.rse.subsystems.processes.dstore",1455854741982
+stopped,bundle,org.eclipse.rse.subsystems.shells.dstore,2.1.201.v201008191400,"org.eclipse.rse.subsystems.shells.dstore",1455854741982
+stopped,bundle,org.eclipse.rse.connectorservice.dstore,3.1.100.v201005281600,"org.eclipse.rse.connectorservice.dstore",1455854741982
+stopped,bundle,org.eclipse.rse.subsystems.files.local,2.1.101.v200907301400,"org.eclipse.rse.subsystems.files.local",1455854741982
+stopped,bundle,org.eclipse.rse.subsystems.processes.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.processes.local",1455854741982
+stopped,bundle,org.eclipse.rse.subsystems.shells.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.shells.local",1455854741982
